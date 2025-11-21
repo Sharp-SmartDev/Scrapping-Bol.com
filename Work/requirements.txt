@@ -1,0 +1,9 @@
+selenium
+undetected-chromedriver
+pandas==2.2.3
+openpyxl==3.1.5
+requests
+beautifulsoup4
+lxml
+webdriver-manager
+
